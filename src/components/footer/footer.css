@@ -1,0 +1,22 @@
+footer {
+    background-color: #000000;
+    height: 280px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+footer h1 {
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 70px;
+    padding-top: 50px;
+}
+
+footer button {
+    width: 145px;
+    height: 35px;
+    background-color: #FFFF02;
+    border-radius: 20px;
+    margin-top: 45px;
+
+}

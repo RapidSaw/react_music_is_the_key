@@ -1,0 +1,30 @@
+.highlights-wrapper {
+    padding: 31px 25px 0px 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.highlights-item {
+    display: flex;
+    position: relative;
+    border-bottom: 1px solid #EBEBEB;
+    padding: 15px 0;
+}
+
+.highlights-title {
+    margin-bottom: 10px;
+    font-size: 23px;
+}
+
+.highlights-item .artist {
+    font-size: 20px;
+}
+
+.highlights-item .about {
+    position: absolute;
+    left: 258px;
+}
+
+.highlights-item .when {
+    position: absolute;
+    left: 1000px;
+}

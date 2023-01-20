@@ -1,0 +1,44 @@
+header {
+  display: flex;
+  height: 61px;
+  width: 100%;
+  background-color: #303030;
+  align-items: center;
+}
+
+header a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.logo {
+  margin-left: 24px;
+}
+
+.navigation {
+  margin-left: 40px;
+}
+
+.navigation a {
+  margin-right: 24px;
+}
+
+.login-wrapper {
+  display: flex;
+  margin-left: auto;
+}
+
+.login a {
+  margin-right: 24px;
+}
+
+.socials {
+  margin-right: 20px;
+}
+
+.socials a{
+  margin-left: 16px;
+}
+
+

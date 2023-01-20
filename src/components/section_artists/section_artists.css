@@ -1,0 +1,51 @@
+.section-artists-wrapper {
+    background-color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.section-artists-wrapper .title {
+    font-size: 68px;
+    font-weight: lighter;
+    padding: 47px 88px 47px 0;
+    text-align: end;
+}
+
+.artists-wrapper {
+    display: flex;
+}
+
+.artists-wrapper .artist-item {
+    width: 450px;
+    height: 600px;
+    margin-left: 24px;
+}
+
+.artists-wrapper .artist-item:nth-child(1) {
+    background: url(assets/artist_1.png) center center;
+    background-size: cover;
+}
+
+.artists-wrapper .artist-item:nth-child(2) {
+    background: url(assets/artist_2.png) center center;
+    background-size: cover;
+}
+
+.artists-wrapper .artist-item:nth-child(3) {
+    background: url(assets/artist_3.png) center center;
+    background-size: cover;
+}
+
+.artists-content-wrapper {
+    margin: 429px 0 0 32px;
+}
+
+.artists-content-wrapper h2 {
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.artists-content-wrapper p {
+    margin-top: 10px;
+    font-size: 22px;
+}

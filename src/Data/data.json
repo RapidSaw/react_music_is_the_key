@@ -1,0 +1,140 @@
+{
+    "header": {
+        "logo": {
+            "img_link": "./assets/logo.png"
+        },
+        "nav": {
+            "link_1": "UPCOMING",
+            "link_2": "VIDEOS",
+            "link_3": "ARTISTS",
+            "link_4": "BLOG"
+        },
+        "login": {
+            "button_1": "JOIN",
+            "button_2": "YOU'RE AN ARTIST?",
+            "button_3": "LOGIN"
+        }
+    },
+
+    "section_head": {
+        "title": "Watch and interact with your favorite musicians Live from their studio.",
+        "link": "Join Echio for free"
+    }, 
+
+    "section_list": {
+        "experience": {
+            "main_title": "Experience",
+            "title": "A UNIQUE WAY TO EXPERIENCE YOUR FAVORITE ARTISTS",
+            "text": "Echio creates a live window into how your favorite artists work, how they think, how they approach creative problems and overcome technical ones.",
+            "button": "Get inspired"
+        },
+        "exchange": {
+            "main_title": "Exchange",
+            "title": "AN INTERACTIVE AND MEANINGFUL CONNECTION",
+            "text": "There’s no substitute for live exchange. With Echio, we offer a deeper level of interaction between artists and fans. Fans ask their favorite artists questions, access exclusive shared files. Artists can involve their biggest fans into their creative process or get instant feedback on their work in progress.",
+            "button": "Get involved"
+        },
+        "support": {
+            "main_title": "Support",
+            "title": "SUPPORT ARTISTS, NOT BIG TECH",
+            "text": "Unlike other platforms, 85% of what you pay goes directly to the artists whose work you love. Founded by artists themselves, Echio is committed to fair and transparent business practices.",
+            "button": "Support artists you love"
+        }
+    },
+
+    "section_artists": {
+        "title": "What artists did on Echio",
+        "artist_1": {
+            "title": "Workshops",
+            "description": "DJ Tennis & Joseph Ashworth gave us tips on how to find the core elements of a track."
+        },
+        "artist_2": {
+            "title": "Listening sessions",
+            "description": "Marina Trench dug through the records of a vinyl collector whose identity was kept secret."
+        },
+        "artist_3": {
+            "title": "Masterclasses",
+            "description": "NSDOS did a masterclass on his Creative Coding approach of music composition."
+        }
+    },
+
+    "section_highlights": {
+        "title": "Highlights",
+        "highlight_1": {
+            "artist": "Chassol",
+            "about": "CREATING A TRACK FROM A TO B",
+            "when": "1 Dec 2022 - 08:00PM"
+        },
+        "highlight_2": {
+            "artist": "MKL",
+            "about": "INSIDE TEXTURES (2 HOURS)",
+            "when": "16 Oct 2022 - 01:00PM"
+        },
+        "highlight_3": {
+            "artist": "Biesmans",
+            "about": "Track breakdown: 'Vanishing Flowers'",
+            "when": "13 Oct 2022 - 05:00PM"
+        },
+        "highlight_4": {
+            "artist": "Frank Wiedemann",
+            "about": "Track Breakdown: 'REJ'",
+            "when": "27 Sep 2022 - 06:00PM"
+        },
+        "highlight_5": {
+            "artist": "Fat Tony",
+            "about": "In-Studio w/ Steel Tipped Dove",
+            "when": "17 Sep 2022 - 09:00PM"
+        },
+        "highlight_6": {
+            "artist": "JB Dunckel",
+            "about": "Track Breakdown: 'Spark'",
+            "when": "13 Sep 2022 - 05:00PM"
+        },
+        "highlight_7": {
+            "artist": "Luke Slater",
+            "about": "Limitations in creation - Nuits Sonores workshop",
+            "when": "25 May 2022 - 11:23AM"
+        },
+        "highlight_8": {
+            "artist": "Para One",
+            "about": "Scoring films",
+            "when": "8 May 2022 - 04:46PM"
+        },
+        "highlight_9": {
+            "artist": "Paloma Colombe",
+            "about": "Paloma Colombe invites Anna Olekhnovych",
+            "when": "11 Apr 2022 - 04:53PM"
+        },
+        "highlight_10": {
+            "artist": "Marina Trench",
+            "about": "Remote Digging - Marina Trench Take Over",
+            "when": "31 Mar 2022 - 05:21PM"
+        },
+        "highlight_11": {
+            "artist": "Chassol",
+            "about": "CREATING A TRACK FROM A TO B",
+            "when": "1 Dec 2022 - 08:00PM"
+        },
+        "highlight_12": {
+            "artist": "DJ TENNIS",
+            "about": "DJ Tennis & Joseph Ashworth - Arrangement & Production workshop",
+            "when": "28 Jan 2022 - 06:07PM"
+        },
+        "highlight_13": {
+            "artist": "NSDOS",
+            "about": "Creative Coding & Music by NSDOS",
+            "when": "26 Jan 2022 - 04:10PM"
+        },
+        "highlight_14": {
+            "artist": "Lauer",
+            "about": "Track Breakdown: Sueno Hebreo (Lauer Remix)",
+            "when": "20 Jan 2022 - 06:28PM"
+        }
+    },
+
+    "footer": {
+        "title": "Join Echio for free",
+        "button": "Sign Up Now"
+    } 
+
+}
