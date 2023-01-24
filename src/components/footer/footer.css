@@ -18,5 +18,10 @@ footer button {
     background-color: #FFFF02;
     border-radius: 20px;
     margin-top: 45px;
+    transition: 0.3s;
+}
 
+footer button:hover {
+    background-color: #ffff027d;
+    color: #FFFF02;
 }

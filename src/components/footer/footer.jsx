@@ -1,11 +1,11 @@
-import data from '../../Data/data.json'
+
 import './footer.css'
 
-function Footer() {
+function Footer(props) {
     return (
         <footer>
-            <h1>{data.footer.title}</h1>
-            <button>{data.footer.button}</button>
+            <h1>{props.data.title}</h1>
+            <button>{props.data.button}</button>
         </footer>
     )
 }

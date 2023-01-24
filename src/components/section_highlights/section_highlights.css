@@ -1,6 +1,7 @@
 .highlights-wrapper {
     padding: 31px 25px 0px 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
 }
 
 .highlights-item {
@@ -21,10 +22,20 @@
 
 .highlights-item .about {
     position: absolute;
-    left: 258px;
+    left: 25%;
 }
 
 .highlights-item .when {
     position: absolute;
-    left: 1000px;
+    left: 80%;
+}
+
+@media (max-width: 1000px) {
+    .highlights-item .artist {
+        width: 23%;
+    }
+    .highlights-item .about {
+        width: 50%;
+    } 
+
 }
